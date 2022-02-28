@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-site/static/css/main.36b83763.css",
+    "main.js": "/My-Portfolio-site/static/js/main.8c430e41.js",
+    "static/media/FireShot Capture 007 - FoodZone - sayemhaque.github.io.png": "/My-Portfolio-site/static/media/FireShot Capture 007 - FoodZone - sayemhaque.github.io.45882e8cd7bdf24f6a55.png",
+    "static/media/IMG_20210607_160007-removebg-preview.png": "/My-Portfolio-site/static/media/IMG_20210607_160007-removebg-preview.848f3b4f12cd39c17734.png",
+    "static/media/mainpage.jpg": "/My-Portfolio-site/static/media/mainpage.02a5dd96d1ab1fd75039.jpg",
+    "index.html": "/My-Portfolio-site/index.html",
+    "main.36b83763.css.map": "/My-Portfolio-site/static/css/main.36b83763.css.map",
+    "main.8c430e41.js.map": "/My-Portfolio-site/static/js/main.8c430e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b83763.css",
+    "static/js/main.8c430e41.js"
+  ]
+}
