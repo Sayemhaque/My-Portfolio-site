@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  overflow-x: hidden;
+  background-color: black;
+}
+header {
+  background-image: linear-gradient(rgba(2, 2, 2, 0.548), rgba(0, 0, 0, 0.473)),
+    url("./Images/mainpage.jpg");
+   min-height: 100vh;
+}
+
+nav{
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+ 
+  /* background-color: rgba(255, 253, 253, 0.479); */
+}
+
+
+.top-btn button{
+  border-radius: 2rem;
+  font-weight: bold;
+  background-color: rgb(24, 26, 25);
+  flex: 1;
+  border:2px dotted wheat;
+  color: rgb(255, 246, 246);
+
+}
+.top-btn button:hover{
+  color: rgb(226, 228, 229);
+}
+
+
+.nav_logo{
+  color: rgb(34, 255, 244) !important;
+  flex: 0.4;
+}
+
+
+header .row h1{
+  color: wheat;
+  margin-top: 130px;
+  font-size: 40px;
+  
+}
+
+.my-img{
+
+  margin-top: 50px;
+  border-radius: 50%;
+  border-right: 9px dotted wheat;
+  padding: 10px;
+}
+
+
+
+.bg-main{
+  background-color: rgb(34, 255, 244);
+}
+
+.heading-text{
+  font-family: 'Redressed', cursive;
+  color: wheat !important;
+ 
+}
+
+.text-main{
+  color: wheat;
+}
+
+.bg-second{
+  background-color: rgb(126, 121, 121);
+}
+.bg-third{
+  background-color: wheat;
+}
+.description-text{
+  color: rgb(145, 141, 141) !important;
+}
+
+.contact-form input , textarea{
+  outline: none;
+  border: none;
+  padding: 2px 7px;
+}
+
+::placeholder{
+  color: rgb(216, 212, 212);
+}
+
+ .contact-form label , p {
+  font-size: 17px;
+  color: white;;
+}
+
+
+
+
+@media (max-width:768px) {
+  .phone ,
+  .email{
+    display: none;
+  }
+}
+
+
+
