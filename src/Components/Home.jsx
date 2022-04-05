@@ -23,7 +23,7 @@ export const Home = () => {
           </div>
         </nav>
         <div className="row text-center">
-          <div data-aos="zoom-in" data-aos-duration="3000">
+          <div data-aos="fade-up" data-aos-duration="3000">
             <div className="col-md-12">
               <h1 className="text-uppercase">
                 <Typewriter

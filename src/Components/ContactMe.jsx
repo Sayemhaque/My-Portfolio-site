@@ -11,20 +11,20 @@ export const ContactMe = () => {
             <div className=" col-md-6">
               <div className="from-group mb-4">
                 <label className="mx-2 fw-bold">Name :</label>
-                <input type="text" className="bg-second" placeholder="Enter your Name" />
+                <input type="text" className="bg-light" placeholder="Enter your Name" />
               </div>
               <label className="mx-2 fw-bold">Email :</label>
-              <input className="bg-second" type="text" placeholder="Enter your email.." />
+              <input className="bg-light" type="text" placeholder="Enter your email.." />
             </div>
             <div className=" col-md-4">
               <p className=" my-4 fw-bold">Massage :</p>
-              <textarea className="bg-second" name="" id="" cols="30" rows="10">
+              <textarea className="bg-light" name="" id="" cols="30" rows="10">
                 Hello Sayem.......
               </textarea>
             </div>
             <div className="row">
               <div className="col-12">
-                <button type="submit"  className="btn fw-bold btn-dark border text-white">Submit</button>
+                <button type="submit"  className="btn fw-bold bg-third text-dark border ">Submit</button>
               </div>
             </div>
           </div>

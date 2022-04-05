@@ -14,10 +14,8 @@ export const AboutMe = () => {
               </div>
             </div>
             <div className="col-md-10">
-            <p className=" description-text ">
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Voluptates, deleniti. Tenetur repudiandae quo, similique nemo
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste quos sed corporis quod, iusto reprehenderit magni mollitia sint suscipit ex?
+            <p className=" description-text text-center">
+             I am a React Js Developer.I love using React to make website user Frienly and fast.I have 1year of experiences using react js.I can translate design into hight quality code using react.I Use Redux for state management.I love to make reponsive and user interactive with tailwind css.
                 </p>
             </div>
           </div>
